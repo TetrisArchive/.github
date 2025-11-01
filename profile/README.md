@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Here are some of my legacy, unfinished projects and concepts.
+just bunch of random stuff
 
 <!--
 
